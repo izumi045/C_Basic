@@ -1,0 +1,1 @@
+printf("Name: Sandesh Shrestha\nRollno:16\nDescription:Multiplication table.\n");
